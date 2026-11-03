@@ -26,7 +26,7 @@ A responsive static portfolio package using HTML, CSS, and vanilla JavaScript. K
 
 The current stats intentionally avoid claiming `1.5+ years building`. The internship count is marked for verification because the exact number and dates should be confirmed before publication. Certificate and resume buttons need your real file links to work. The LinkedIn and email links are placeholders and should be updated.
 
-## Files
+## code Files
 
 - `index.html` — page content and sections
 - `styles.css` — theme, layout, responsiveness, and animations
